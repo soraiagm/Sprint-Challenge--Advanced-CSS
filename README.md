@@ -41,6 +41,8 @@ Edit this document to include your answers after each question. Make sure to lea
     Mobile-first means that you first design the mobile version of the site and then move on to the desktop version. This way you can add progressive enhancement.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
+    It helps you achieve a more balanced website through the different browsers,  it will adjust when zooming.
+    
 
 4. How would you describe preprocessing to someone new to CSS?
     It is a preprocessor that lets you generate CSS from it's syntax, it makes the CSS structure more readable. It's broken down into LESS files which helps developers read your code and allows for a team of developers to work independently on different parts.
