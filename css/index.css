@@ -49,6 +49,7 @@
 @media (max-width: 500px) {
   .home header.intro img {
     width: 100%;
+    border-radius: 5px;
   }
 }
 /* http://meyerweb.com/eric/tools/css/reset/ 
